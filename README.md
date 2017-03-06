@@ -1,5 +1,5 @@
-ansible timedatectl
-===================
+ansible aws-credentials
+=======================
 [![Build Status](https://travis-ci.org/ypsman/ansible-aws-credentials.svg?branch=master)](https://travis-ci.org/ypsman/ansible-aws-credentials)
 
 AWS Credentials, Region and Config for specific User.
