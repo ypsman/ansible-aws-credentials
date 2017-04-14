@@ -17,5 +17,3 @@ Example Playbook
           aws_key_id: 'youreAWSkey'
           aws_secret: 'youreAWSsecret'
 
-[]
-[x]
