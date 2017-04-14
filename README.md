@@ -16,3 +16,6 @@ Example Playbook
           aws_region: 'eu-central-1'
           aws_key_id: 'youreAWSkey'
           aws_secret: 'youreAWSsecret'
+
+[]
+[x]
